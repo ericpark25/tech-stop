@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Smartphone",
+    "company": "Apple",
+    "description": "Cutting-edge performance with a sleek design. This smartphone combines a powerful processor, an exceptional camera, and long-lasting battery life to keep you connected and productive all day. Whether you're streaming, gaming, or capturing memories, it's your ultimate tech companion.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg",
+    "price": 799.99,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Headphones",
+    "company": "Sony",
+    "description": "Immerse yourself in high-quality sound with these wireless headphones. Featuring noise cancellation, crystal-clear audio, and a comfortable fit, they are perfect for music, calls, and gaming. Enjoy up to 30 hours of battery life for all-day entertainment.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/5382359/pexels-photo-5382359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 249.99,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Smart TV",
+    "company": "Samsung",
+    "description": "Experience stunning 4K resolution and seamless streaming with this smart TV. Designed for modern living rooms, it features an intuitive interface, voice control, and a range of apps to transform your entertainment experience.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 899.99,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Gaming Laptop",
+    "company": "Lenovo",
+    "description": "Take your gaming experience to the next level with this high-performance laptop. Equipped with the latest graphics card, lightning-fast SSD, and a vibrant display, it delivers smooth gameplay and stunning visuals. Ideal for gamers and creators alike.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6053279/pexels-photo-6053279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 1199.99,
+    "clerkId": "clerkId"
+  }
+]
